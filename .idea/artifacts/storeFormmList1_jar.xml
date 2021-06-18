@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="storeFormmList1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/storeFormmList1_jar</output-path>
+    <root id="archive" name="storeFormmList1.jar">
+      <element id="module-output" name="storeFormmList1" />
+    </root>
+  </artifact>
+</component>
